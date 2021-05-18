@@ -1,0 +1,36 @@
+
+//contact
+{
+    "LastName": "Maioriko",
+    "FirstName": "Joe",
+    "Title": "Sheet Metal Superintendent",
+    "CompanyName": "Cardinal Roofing",
+    "ContactType": "Subcontractor",
+    "ContactScope": "Roofing",
+    "Adress": {
+        "Adress1": "2425 E Livingston",
+        "Adress2": "",
+        "City": "Springfield",
+        "State": "MO",
+        "Zipcode": "65803",
+        "Phone1": "417-887-5302",
+        "Phone2": "417-619-5805"
+    },
+    "URL": "",
+    "Email": "joe@cardinalrfg.com"
+}
+//directory
+{
+    "Description": "100 Foyer [St Robert Clinic]",
+    "Alias": "",
+    "PropertyLevel": "Room"
+   
+}
+//document
+{
+    "Division": "1",
+    "Description": "desccc",
+    "Category": "Category1",
+    "Subcategory": "Subcategory1",
+    "Association": "Association1",
+}
